@@ -1,0 +1,1 @@
+Tested on Pokemon Lab Machine in RVR5029
